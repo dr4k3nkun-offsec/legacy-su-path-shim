@@ -1,4 +1,3 @@
-```markdown
 # Universal Legacy SU Path Shim & Bridge
 
 A universal systemless and physical partition bridge designed for modern Android devices running modern root managers (Magisk, KernelSU, APatch).
@@ -13,7 +12,6 @@ This project completely fixes two critical legacy root issues on modern Android 
   ```text
   exec("/system/bin/su"): No such file or directory
 
-```
 
 Resolves the hardcoded legacy path requirement in ANDRAX's installer and runtime execution engine without modifying system partitions.
 
@@ -150,7 +148,3 @@ ls -la /system/bin/su
 ## Author
 
 * **DRAKEN**
-
-```
-
-```
