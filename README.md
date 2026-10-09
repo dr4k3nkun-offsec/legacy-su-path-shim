@@ -1,3 +1,4 @@
+```markdown
 # Universal Legacy SU Path Shim & Bridge
 
 A universal systemless and physical partition bridge designed for modern Android devices running modern root managers (Magisk, KernelSU, APatch).
@@ -149,5 +150,7 @@ ls -la /system/bin/su
 ## Author
 
 * **DRAKEN**
+
+```
 
 ```
