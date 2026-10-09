@@ -1,0 +1,6 @@
+id=legacy_su
+name=Legacy SU Path Shim
+version=v3.0
+versionCode=3
+author=DRAKEN
+description=Symlinks /system/bin/su AND /system/bin/magisk to the live Magisk binary every boot. The magisk sibling is required: Magisk's own abnormal-state check only inspects a PATH dir for a stray su if that dir has no file named magisk in it.
