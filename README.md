@@ -11,7 +11,7 @@ This project completely fixes two critical legacy root issues on modern Android 
 * **ANDRAX Core Execution Failure (Solved):**
   ```text
   exec("/system/bin/su"): No such file or directory
-
+  ```
 
 Resolves the hardcoded legacy path requirement in ANDRAX's installer and runtime execution engine without modifying system partitions.
 
